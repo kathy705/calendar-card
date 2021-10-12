@@ -80,15 +80,15 @@ const style = css`
         color: var(--primary-color);
         display:inline-block;
         position:relative;
-        top:-7px;
-        width: 100%;
+        top:-5px;
+        width: 90%;
         margin: 0;
     }
 
     .day-wrapper ha-icon.progress-bar {
         display:block;
-        height:9px;
-        --mdc-icon-size: 9px;
+        height:5px;
+        --mdc-icon-size: 5px;
         color: var(--accent-color);
         position:relative;
         top:5px;
