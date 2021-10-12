@@ -1,6 +1,4 @@
-# as of hass 0.115 a built in calendar card is included so this card is archived and will no longer be developed. if any features are missing in the new card, open pull requests against lovelace to get them added.
-
-# Calendar Card for Home Assistant
+# TEST Calendar Card for Home Assistant
 Show Google calendar events
 
 <img src='https://raw.githubusercontent.com/ljmerza/calendar-card/master/card.png' />
