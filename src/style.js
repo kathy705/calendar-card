@@ -9,7 +9,7 @@ const style = css`
     }
 
     .max-height {
-        max-height: 500px;
+        max-height: 800px;
         overflow-y: scroll;
     }
 
